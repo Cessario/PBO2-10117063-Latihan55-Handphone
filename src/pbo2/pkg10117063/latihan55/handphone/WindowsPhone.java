@@ -5,9 +5,11 @@
  */
 package pbo2.pkg10117063.latihan55.handphone;
 
-/**
- *
- * @author Deadpool
+/*
+Nama : Cessario Sheva L.P.A
+Kelas: IF-2
+Nim  : 10117063
+Deskripsi Program : Menampilkan Merk HP
  */
 public class WindowsPhone extends Handphone {
     private String wpKeyStore;
